@@ -1,0 +1,30 @@
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Backup files
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Python virtual environments (if applicable)
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# System files
+*.DS_Store
